@@ -1,0 +1,14 @@
+.category-links {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.category-link {
+  padding: 10px;
+  margin: 0 10px;
+  border: 1px solid black;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
